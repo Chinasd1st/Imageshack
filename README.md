@@ -1,3 +1,8 @@
+<style>
+ *{
+  font-family: "Source Han Sans CN";
+  }
+</style>
 <!--记得加br！-->
 # Imageshack
 ## 图床
