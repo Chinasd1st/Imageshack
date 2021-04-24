@@ -1,3 +1,4 @@
+<!--记得加br！-->
 # Imageshack
 ## 图床
 使用方法：
@@ -5,9 +6,9 @@
 <img src="https://cdn.jsdelivr.net/gh/Chinasd1st/Imageshack/{{文件夹名}}/{{文件名}}"/>
 ```
 附带哔哩哔哩图片官方cdn
-http://i0.hdslb.com/bfs/emote/+{{下表中的图片名}}
-http://i1.hdslb.com/bfs/emote/+{{下表中的图片名}}
-http://i2.hdslb.com/bfs/emote/+{{下表中的图片名}}
+http://i0.hdslb.com/bfs/emote/+{{下表中的图片名}}<br />
+http://i1.hdslb.com/bfs/emote/+{{下表中的图片名}}<br />
+http://i2.hdslb.com/bfs/emote/+{{下表中的图片名}}<br />
 http://i3.hdslb.com/bfs/emote/+{{下表中的图片名}}
 
                   "tv_doge": "6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png",
