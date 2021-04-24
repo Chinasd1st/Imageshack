@@ -5,7 +5,7 @@
 ```html
 <img src="https://cdn.jsdelivr.net/gh/Chinasd1st/Imageshack/{{文件夹名}}/{{文件名}}"/>
 ```
-附带哔哩哔哩图片官方cdn
+附带哔哩哔哩图片官方cdn<br />
 http://i0.hdslb.com/bfs/emote/+{{下表中的图片名}}<br />
 http://i1.hdslb.com/bfs/emote/+{{下表中的图片名}}<br />
 http://i2.hdslb.com/bfs/emote/+{{下表中的图片名}}<br />
